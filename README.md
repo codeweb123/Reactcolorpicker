@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+React color picker project created to practice React state changes, props, and setting state.
+
 ## Available Scripts
 
 In the project directory, you can run:
